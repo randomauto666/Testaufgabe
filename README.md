@@ -415,7 +415,7 @@ Die Tests müssen mit `mvn verify` laufen. Das Projekt soll ohne installierte Da
 
 ## 11. Hinweise
 
-- Bei Unklarheiten bitte nachfragen. Getroffene Annahmen gehören ins README.
+- Bei Unklarheiten bitte nachfragen. Getroffene Annahmen gehören ins Ticket.
 - Wichtiger als Vollständigkeit aller Bonuspunkte ist ein sauberer, nachvollziehbarer und getesteter Kern.
 - Keine eigenen Thread-Pools, ausschließlich die Scheduler der Plattform.
 - Alle I/O-Operationen laufen asynchron.
