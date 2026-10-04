@@ -4,7 +4,7 @@ Stand: 04.10.2026 · Umfang: ca. 2–3 Arbeitstage · Sprache der Spielernachric
 
 ## 1. Ausgangslage
 
-Elinski Hausen betreibt ein Minecraft-Netzwerk mit mehreren Paper-Servern hinter mehreren BungeeCord-Proxys. Spieler der Java Edition und der Bedrock Edition (über Geyser/Floodgate) spielen gemeinsam. Bisher laufen Meldungen über Discord und einzelne Chatnachrichten an das Team. Dabei gehen Fälle verloren, Beweise fehlen, und niemand weiß, wer einen Fall gerade bearbeitet.
+Elinski Hausen betreibt ein Minecraft-Netzwerk mit mehreren Paper-Servern hinter mehreren BungeeCord-Proxys. Spieler der Java Edition und der Bedrock Edition (über Geyser/Floodgate) spielen gemeinsam.
 
 Deine Aufgabe ist ein **netzwerkweites Meldesystem** („EH-Meldungen“). Spieler melden andere Spieler, das Team bearbeitet die Fälle in einer Oberfläche im Spiel, und der Melder bekommt unabhängig von Server und Proxy eine Rückmeldung. Alles läuft asynchron, ist persistent und für den Produktivbetrieb gedacht.
 
